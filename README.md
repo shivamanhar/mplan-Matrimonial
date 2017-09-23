@@ -1,3 +1,3 @@
 # mplan
 <h2> Open Source Matrimonial </h2>
-![picture](screen_shot/ScreenShotonSep 23rdat02-13PM.png)
+![picture](https://github.com/shivamanhar/mplan/blob/master/screen_shot/ScreenShotonSep%2023rdat02-13PM.png)
