@@ -1,0 +1,3 @@
+hello
+
+<?php echo $message; ?>

@@ -1,0 +1,459 @@
+/*
+ *
+ * Template Name: Fullscreen Responsive Register Template
+ * Template URI: http://azmind.com
+ * Author: Anli Zaimi
+ * Author URI: http://azmind.com
+ *
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@font-face {
+  font-family: 'androgyno';
+  src: url('../fonts/Androgyne_TB.otf');
+}
+body {
+    background: #f8f8f8;
+    text-align: left;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    color: #555;
+    font-size: 16px;
+    font-weight: 400;
+     margin:0;
+}
+
+strong { font-weight: 700; }
+.red { color: #eb4141; }
+a:hover { text-decoration: none; }
+.no_border  tr td,th
+{
+  border:none !important;
+  padding:0px !important;
+}
+.no_border table
+{
+  border:none;
+}
+.header {
+    margin: 0 auto;
+    padding-bottom: 5px;
+    background: #f8f8f8 url('../img/pattern.jpg') left top repeat;
+    border-top: 3px solid #eb4141;
+    -moz-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+}
+.ferror
+{
+    line-height: 15px;
+    border: none;
+    color: #fff;
+    background-color:#cc0000;
+}
+/*
+#mm input[type=email]
+{
+    height:35px;
+    font-size:18px;
+    margin-top:4px;
+    margin-bottom:4px;
+    border: 1px solid #120567;
+    padding-left:10px;
+}
+#mm input[type=text]
+{
+    height:35px;
+    font-size:18px;
+    margin-top:4px;
+    margin-bottom:4px;
+    border: 1px solid #120567;
+    padding-left:10px;
+    font-weight:700;
+}
+
+#mm input[type=password]
+{
+    height:35px;
+    font-size:18px;
+    margin-top:4px;
+    margin-bottom:4px;
+    border: 1px solid #120567;
+    padding-left:10px;
+}
+#mm input[type=tel]
+{
+    height:35px;
+    font-size:18px;
+    margin-top:4px;
+    margin-bottom:4px;
+    border: 1px solid #120567;
+    
+}
+#mm input[type=redio], select
+{
+    height:30px;
+    font-size:18px;
+    margin-top:4px;
+    margin-bottom:4px;
+    border: 1px solid #120567;
+}
+*/
+#mm td
+{
+    vertical-align:middle;
+}
+
+
+.logo h1 {
+    padding-left: 50px;
+    font-family: 'Oleo Script', cursive;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.logo h1 a { color: #555; }
+
+.links {
+    text-align: right;
+}
+
+.links a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 15px 0 0 20px;
+}
+
+.links a.home { background: url('../img/home.png') center center no-repeat; }
+.links a.blog { background: url('../img/blog.png') center center no-repeat; margin-right: 50px; }
+
+.register-container {
+    margin-top: 50px;
+}
+
+/* ----- iPhone ----- */
+
+.iphone {
+    text-align: right;
+}
+
+.iphone img { margin-right: 10px; }
+
+/* ----- Registration Form ----- */
+.login_margin
+{
+  margin-bottom:10px;
+  margin-top:3%;
+}
+.register form {
+    padding: 2px 10px 10px 10px;
+    background-color:#FDF2D6;
+    /*background: #f8f8f8 url('../img/pattern.jpg') left top repeat;*/
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    -moz-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    text-align: center;
+    border:2px solid #ce0000;
+    width:75%;
+}
+.ms_login h2{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.ms_login {
+    padding: 5px 50px 5px 50px;
+    background: #f8f8f8 url('../img/pattern.jpg') left top repeat;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    -moz-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    text-align: center;
+    margin-bottom:8px;
+    color:#dd0000;
+    border:2px solid #ce0000;
+}
+.ms_login:hover
+{
+  background: #b30000;
+  color:#ffffff;
+}
+.register form h2 {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    
+    border-bottom: 2px dotted #bbb;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+/*
+.register input[type=text],input[type=password], input[type=email], input[type=tel]  {
+    width: 100%;
+    height: 24px;
+    background: #fcfcfc;
+    border: 1px solid #ddd;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    color: #888;
+    font-size: 16px;
+}
+.ms_style table tr td input[type=text],input[type=password], input[type=email], input[type=tel] , textarea, select {
+    width: 100%;
+    height: 35px;
+    line-height:normal;
+    background: #fcfcfc;
+    border: 1px solid #ddd;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    -webkit-box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1) inset;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    color: #888;
+    font-size: 16px;
+    color:#004d71;
+    font-weight:bold;
+    border: 1px solid #120567;
+}
+.ms_style table tr td input[type=radio]
+{
+    width:25px;
+}
+*/
+.ms_style table tr td
+{
+    line-height:40px;
+    border-top:none;
+}
+.ms_style  table tr th
+{
+    line-height:35px;
+    border:1px solid #fe4d01;
+    background-color:#E75A1D;
+    font-size:20px;    
+    font-family:androgyno;
+    color:#fff;
+    
+}
+.ms_style table
+{
+    border:3px solid #ff8040;
+    
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	box-shadow: 2px 2px 5px #808080;
+	-o-box-shadow: 2px 2px 5px #808080;
+	-moz-box-shadow: 2px 2px 5px #808080;
+  	-webkit-box-shadow: 2px 2px 5px #808080;
+}
+.ms_style form input[type=redio]
+{
+    width: 15%;
+    height: 35px;
+}
+.ms_style input[type=submit]
+{
+    background-color:#00a629;
+    border:#004010;
+    margin-bottom:20px;
+    box-shadow: 2px 2px 5px #808080;
+	-o-box-shadow: 2px 2px 5px #808080;
+	-moz-box-shadow: 2px 2px 5px #808080;
+  	-webkit-box-shadow: 2px 2px 5px #808080;
+}
+.ms_style input[type=submit]:hover
+{
+    background-color:#00ce34;
+    border:#004010;
+    margin-bottom:20px;
+    box-shadow: 2px 2px 5px #808080;
+	-o-box-shadow: 2px 2px 5px #808080;
+	-moz-box-shadow: 2px 2px 5px #808080;
+  	-webkit-box-shadow: 2px 2px 5px #808080;
+}
+.ms_style form input:focus {
+    border: 1px solid #ccc;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.register form input[type=redio]
+{
+    width: 15%;
+    height: 24px;
+}
+
+.register form input:focus {
+    border: 1px solid #ccc;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.register form label {
+    margin: 7px 0 10px 5px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.register form label span {
+    font-style: italic;
+}
+
+.register form input:-moz-placeholder { color: #aaa; }
+.register form input:-ms-input-placeholder { color: #aaa; }
+.register form input::-webkit-input-placeholder { color: #aaa; }
+
+/*
+.register form button {
+    cursor: pointer;
+    width: 60%;
+    height: 42px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    padding: 0;
+    background: #eb4141;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: 0;
+    -moz-box-shadow: 0 15px 30px 0 rgba(255,255,255,.1) inset;
+    -webkit-box-shadow: 0 15px 30px 0 rgba(255,255,255,.1) inset;
+    box-shadow: 0 15px 30px 0 rgba(255,255,255,.1) inset;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0,0,0,.1);
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+}
+
+.register form button:hover {
+    -moz-box-shadow: 0 -15px 30px 0 rgba(255,255,255,.05) inset;
+    -webkit-box-shadow: 0 -15px 30px 0 rgba(255,255,255,.05) inset;
+    box-shadow: 0 -15px 30px 0 rgba(255,255,255,.05) inset;
+}
+
+.register form button:active {
+    -moz-box-shadow:
+        0 -15px 30px 0 rgba(255,255,255,.05) inset,       
+        0 5px 8px 0 rgba(0,0,0,.1) inset;
+    -webkit-box-shadow:
+        0 -15px 30px 0 rgba(255,255,255,.05) inset,       
+        0 5px 8px 0 rgba(0,0,0,.1) inset;
+    box-shadow:
+        0 -15px 30px 0 rgba(255,255,255,.05) inset,       
+        0 5px 8px 0 rgba(0,0,0,.1) inset;
+}
+*/
+.tb_align
+{
+    text-align:left;
+}
+
+
+/* ----- social media --- */
+.facebook
+{
+    display:inline;
+    background-color:#006b9f;
+    color:#fff;
+    width:200px;
+    padding:5px;
+    margin-left:10px;
+    margin-top:15px;
+    font-size:20px;
+}
+
+.google
+{
+    display:inline;
+    background-color:#d20000;
+    color:#fff;
+    width:200px;
+    padding:5px;
+    margin-left:10px;
+    margin-top:15px;
+    font-size:20px;
+}
+/* ----- Media queries ----- */
+
+@media (max-width: 1200px) {
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+
+    .register form h2 { background: none; }
+
+}
+
+@media (max-width: 767px) {
+
+    body { padding-left: 0; padding-right: 0; }
+
+    .logo, .links { text-align: center; }
+
+    .links { padding-bottom: 5px; }
+
+    .logo h1 { padding-left: 0; }
+
+    .links a.home { margin-left: 0; }
+
+    .links a.blog { margin-right: 0; }
+
+    .register-container { padding-left: 20px; padding-right: 20px; }
+
+    .register form h2 { background: none; }
+
+    .iphone img { display: none; }
+
+}
+
+@media (max-width: 480px) {
+    body {
+    background: #f8f8f8;
+    text-align: left;
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+    color: #555;
+    font-size: 14px;
+    font-weight: 400;
+}
+.register form {
+    padding-left:5px;
+    padding-right:5px;
+}
+.register form input[type=text],input[type=password], input[type=email], input[type=tel] {
+    width: 100%;
+}
+.register form
+{
+    width: 100%;
+}
+.register-container {
+    padding-left: 5px; padding-right: 5px;
+    }
+    select {
+width: 195px;
+    }
+    .register form button { width: 80%; }
+    
+}
+

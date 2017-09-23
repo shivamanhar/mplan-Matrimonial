@@ -1,0 +1,24 @@
+.msg_body
+{
+  border:1px solid #000;
+  margin:0 auto;
+  background-color:#e9e9e9;
+  padding-bottom:15px;
+}
+.header
+{
+  background-image:url("http://mplan.in/img/email_image/header.jpg");
+  min-height:180px;
+  background-repeat:no-repeat;
+  
+}
+.header h3
+{
+  float:right;
+  color:#fff;
+  padding-right:100px;
+}
+hr
+{
+  border:1px solid #ff0000;
+}

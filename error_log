@@ -1,0 +1,911 @@
+[29-Mar-2015 17:55:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDFQkKS2ackTco...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[29-Mar-2015 18:08:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQCX0NRB9jyjWbx...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 01:34:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQBZc3wGvnspU5o...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 01:40:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDJCbKXw4BpcM9...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:00:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDhMn7m3QfZvCm...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:05:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDVdDb3JHua5DP...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:10:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQAtTtuodSIqgIG...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:11:44 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQAtTtuodSIqgIG...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:12:00 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQAtTtuodSIqgIG...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 02:18:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQA_tpqeVa_e2y6...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 08:35:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQB6jhbAWVRNCYP...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 17:27:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDmuSWIXRK0h9E...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 17:28:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDk62phYmS3xnz...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 17:33:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(31): OAuth2_Provider->access('AQBC1MhBQPGOIRT...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[30-Mar-2015 17:38:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQDWRE80zsni3s5...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[02-Apr-2015 06:02:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(30): OAuth2_Provider->access('AQAHeHiGN1sdu_A...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[02-Apr-2015 14:38:11 Etc/GMT] PHP Fatal error:  Call to undefined function base_name() in /home/cgblo1iw/public_html/mplan/application/config/config.php on line 18
+[02-Apr-2015 14:38:54 Etc/GMT] PHP Fatal error:  Call to undefined function base_name() in /home/cgblo1iw/public_html/mplan/application/config/config.php on line 18
+[02-Apr-2015 14:38:55 Etc/GMT] PHP Fatal error:  Call to undefined function base_name() in /home/cgblo1iw/public_html/mplan/application/config/config.php on line 18
+[02-Apr-2015 14:39:16 Etc/GMT] PHP Fatal error:  Call to undefined function base_name() in /home/cgblo1iw/public_html/mplan/application/config/config.php on line 18
+[02-Apr-2015 19:06:15 Etc/GMT] PHP Fatal error:  Call to undefined function form_email() in /home/cgblo1iw/public_html/mplan/application/views/auth/register_form.php on line 156
+[03-Apr-2015 06:25:14 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(30): OAuth2_Provider->access('AQAHeHiGN1sdu_A...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[03-Apr-2015 08:35:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/cgblo1iw/public_html/mplan/application/views/auth/login_form.php on line 122
+[03-Apr-2015 08:42:02 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/cgblo1iw/public_html/mplan/application/controllers/auth.php on line 159
+[04-Apr-2015 19:07:52 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not provided: id' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php:67
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php(32): OAuth2_Provider->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(11): OAuth2::provider('facebook')
+#2 [internal function]: Auth_oa2->session('facebook')
+#3 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#5 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php on line 67
+[04-Apr-2015 19:08:02 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not provided: id' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php:67
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php(32): OAuth2_Provider->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(11): OAuth2::provider('facebook')
+#2 [internal function]: Auth_oa2->session('facebook')
+#3 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#5 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php on line 67
+[04-Apr-2015 19:08:03 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not provided: id' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php:67
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php(32): OAuth2_Provider->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(11): OAuth2::provider('facebook')
+#2 [internal function]: Auth_oa2->session('facebook')
+#3 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#5 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php on line 67
+[04-Apr-2015 19:08:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not provided: id' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php:67
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php(32): OAuth2_Provider->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(11): OAuth2::provider('facebook')
+#2 [internal function]: Auth_oa2->session('facebook')
+#3 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#5 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php on line 67
+[04-Apr-2015 19:08:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not provided: id' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php:67
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php(32): OAuth2_Provider->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(12): OAuth2::provider('facebook')
+#2 [internal function]: Auth_oa2->session('facebook')
+#3 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#4 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#5 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php on line 67
+[04-Apr-2015 19:15:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(31): OAuth2_Provider->access('AQAJROzwfhNjS7F...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:17:53 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(31): OAuth2_Provider->access('AQAJROzwfhNjS7F...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:24:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(28): OAuth2_Provider->access('AQBDWxOhzms8nu3...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:24:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(28): OAuth2_Provider->access('AQBDWxOhzms8nu3...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:24:38 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(28): OAuth2_Provider->access('AQBDWxOhzms8nu3...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:26:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(28): OAuth2_Provider->access('AQBLFlU826MCHwF...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:26:31 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(28): OAuth2_Provider->access('AQBLFlU826MCHwF...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:44:18 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php on line 32
+[04-Apr-2015 19:51:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQBj0X7Ua2K_HfM...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:52:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQAF4aydQ6svF_T...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:52:39 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php on line 39
+[04-Apr-2015 19:54:29 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQC82E9IFaMFewl...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 19:55:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQC5PCz6cozu9CS...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 20:01:10 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQD_SWGjfOv0-6N...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 20:01:14 Etc/GMT] PHP Fatal error:  Call to undefined method stdClass::num_rows() in /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php on line 39
+[04-Apr-2015 20:15:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQDdsK5wKNE4s35...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 20:25:02 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 184
+[04-Apr-2015 20:31:05 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(33): OAuth2_Provider->access('AQCRn9TQImiQqGm...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[04-Apr-2015 20:32:19 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 183
+[04-Apr-2015 20:32:24 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 183
+[04-Apr-2015 20:35:55 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 183
+[04-Apr-2015 20:36:52 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 183
+[04-Apr-2015 20:54:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 'shiva' (T_STRING) in /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php on line 46
+[04-Apr-2015 21:15:57 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php on line 32
+[24-Apr-2015 08:06:33 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+Array
+(
+)
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(Array)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', Array)
+#2 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider->access('AQAHeHiGN1sdu_A...')
+#3 [internal function]: Auth_oa2->session('facebook')
+#4 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#5 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#6 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[05-May-2015 17:38:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ''country_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 113
+[06-May-2015 10:42:28 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 47
+[06-May-2015 10:46:32 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 47
+[06-May-2015 10:46:35 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 47
+[06-May-2015 10:46:42 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 47
+[06-May-2015 10:47:28 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 47
+[06-May-2015 13:12:35 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:12:37 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:12:39 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:20:14 Etc/GMT] PHP Fatal error:  Cannot redeclare Matri::global_select() in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 66
+[06-May-2015 13:21:11 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 68
+[06-May-2015 13:24:08 Etc/GMT] PHP Fatal error:  Call to a member function database() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/global_fun.php on line 14
+[06-May-2015 13:25:26 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:28:12 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:31:47 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:32:54 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:34:21 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:37:09 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:37:11 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:37:13 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:40:32 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:40:35 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:40:37 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:40:41 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:41:27 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[06-May-2015 13:44:28 Etc/GMT] PHP Fatal error:  Call to a member function where() on a non-object in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 48
+[07-May-2015 12:00:06 Etc/GMT] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 95
+[15-May-2015 12:09:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:10:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:11:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:12:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:12:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:13:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:14:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:15:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:15:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:17:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:17:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 12:17:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 140
+[15-May-2015 15:44:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 37
+[15-May-2015 15:54:48 Etc/GMT] PHP Fatal error:  Cannot redeclare Matri::global_where() in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 74
+[15-May-2015 18:26:19 Etc/GMT] PHP Fatal error:  Cannot re-assign $this in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 28
+[15-May-2015 18:27:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 28
+[16-May-2015 04:44:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7hzas9sy-HQFR...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7hzas9sy-HQFR...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[16-May-2015 04:55:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ''last_ip'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/cgblo1iw/public_html/mplan/application/libraries/Tank_auth.php on line 278
+[16-May-2015 22:45:31 Etc/GMT] PHP Fatal error:  Call to a member function and_where() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 35
+[16-May-2015 22:49:46 Etc/GMT] PHP Fatal error:  Call to a member function global_where() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 58
+[17-May-2015 00:47:01 Etc/GMT] PHP Fatal error:  Call to a member function global_where() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/user_profile.php on line 118
+[17-May-2015 12:37:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '"</option>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/cgblo1iw/public_html/mplan/application/libraries/muse.php on line 67
+[17-May-2015 17:13:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/cgblo1iw/public_html/mplan/application/views/muser/mhome.php on line 37
+[17-May-2015 17:14:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/cgblo1iw/public_html/mplan/application/views/muser/mhome.php on line 37
+[17-May-2015 17:35:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cgblo1iw/public_html/mplan/application/views/site_theme/site_header.php on line 14
+[17-May-2015 17:38:51 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/cgblo1iw/public_html/mplan/application/libraries/muse.php on line 130
+[17-May-2015 17:42:41 Etc/GMT] PHP Fatal error:  Call to a member function global_where() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 39
+[18-May-2015 14:26:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cgblo1iw/public_html/mplan/application/libraries/muse.php on line 208
+[18-May-2015 14:27:28 Etc/GMT] PHP Fatal error:  Call to a member function mymatch() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 205
+[18-May-2015 14:28:08 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::form() in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 105
+[18-May-2015 14:28:43 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 206
+[18-May-2015 16:49:18 Etc/GMT] PHP Fatal error:  Call to undefined method Muser::sex_match() in /home/cgblo1iw/public_html/mplan/application/controllers/muser.php on line 207
+[18-May-2015 17:28:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 110
+[18-May-2015 18:40:17 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (403574400) at position 8 (0): Unexpected character' in /home/cgblo1iw/public_html/mplan/application/libraries/muse.php:163
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/muse.php(163): DateTime->__construct('403574400')
+#1 /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php(40): Muse->agecal('403574400')
+#2 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(321): include('/home/cgblo1iw/...')
+#3 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#4 /home/cgblo1iw/public_html/mplan/application/views/site_theme/site_containt.php(6): MX_Loader->view('muser/matches')
+#5 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(321): include('/home/cgblo1iw/...')
+#6 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#7 /home/cgblo1iw/public in /home/cgblo1iw/public_html/mplan/application/libraries/muse.php on line 163
+[18-May-2015 18:43:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (403574400) at position 8 (0): Unexpected character' in /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php:40
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php(40): DateTime->__construct('403574400')
+#1 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(321): include('/home/cgblo1iw/...')
+#2 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#3 /home/cgblo1iw/public_html/mplan/application/views/site_theme/site_containt.php(6): MX_Loader->view('muser/matches')
+#4 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(321): include('/home/cgblo1iw/...')
+#5 /home/cgblo1iw/public_html/mplan/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#6 /home/cgblo1iw/public_html/mplan/application/controllers/muser.php(99): MX_Loader->view('site_theme/site...', Array) in /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php on line 40
+[18-May-2015 18:46:57 Etc/GMT] PHP Fatal error:  Call to a member function agecal() on a non-object in /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php on line 40
+[18-May-2015 18:56:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '$year' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan/application/views/muser/matches.php on line 50
+[19-May-2015 04:22:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/Q-8TEAzRc9WJW...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/Q-8TEAzRc9WJW...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 04:23:06 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/Q-8TEAzRc9WJW...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/Q-8TEAzRc9WJW...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 04:27:30 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7CInLAqlBVFnd...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7CInLAqlBVFnd...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 04:59:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7CInLAqlBVFnd...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7CInLAqlBVFnd...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 04:59:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7CInLAqlBVFnd...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7CInLAqlBVFnd...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 05:02:07 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7CInLAqlBVFnd...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7CInLAqlBVFnd...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 05:09:48 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/7CInLAqlBVFnd...', Array)
+#3 /home/cgblo1iw/public_html/mplan/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/7CInLAqlBVFnd...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/Token/Access.php on line 44
+[19-May-2015 05:50:46 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan/application/libraries/oauth2/OAuth2.php on line 32
+[19-May-2015 06:56:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'users' (T_STRING) in /home/cgblo1iw/public_html/mplan/application/models/matri.php on line 145
+[21-May-2015 10:53:07 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/OAuth2.php on line 32
+[21-May-2015 10:53:10 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/OAuth2.php on line 32
+[21-May-2015 11:39:35 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_Googlec' not found in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/OAuth2.php on line 32
+[21-May-2015 13:44:02 Etc/GMT] PHP Fatal error:  Class 'OAuth2_Provider_' not found in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/OAuth2.php on line 32
+[22-May-2015 02:16:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/cgblo1iw/public_html/mplan.in/application/controllers/partner_profile.php on line 128
+[22-May-2015 09:05:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:06:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ',' or ';' in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 76
+[22-May-2015 09:06:30 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:06:39 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:06:46 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:08:14 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:08:47 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:08:55 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:09:45 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:10:10 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:10:41 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:10:49 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:12:55 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:13:03 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:14:25 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:14:32 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:14:40 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:14:53 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:16:52 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:17:36 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:18:38 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:19:25 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:26:10 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:27:16 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic.php on line 66
+[22-May-2015 09:27:23 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic.php on line 66
+[22-May-2015 09:28:15 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:28:28 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 09:31:50 Etc/GMT] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 265289728 bytes) in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/partner_basic_info.php on line 66
+[22-May-2015 10:24:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/controllers/partner_profile.php on line 117
+[23-May-2015 07:57:36 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/tZzEjuGJgIIJi...', Array)
+#3 /home/cgblo1iw/public_html/mplan.in/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/tZzEjuGJgIIJi...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan.in/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan.in/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php on line 44
+[24-May-2015 14:31:20 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/IkJpdmwbdTX3j...', Array)
+#3 /home/cgblo1iw/public_html/mplan.in/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/IkJpdmwbdTX3j...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan.in/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan.in/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php on line 44
+[24-May-2015 14:31:41 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/iDmbT9aH2NUoo...', Array)
+#3 /home/cgblo1iw/public_html/mplan.in/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/iDmbT9aH2NUoo...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan.in/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan.in/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php on line 44
+[24-May-2015 14:33:16 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/fg-G_nZA4RKfP...', Array)
+#3 /home/cgblo1iw/public_html/mplan.in/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/fg-G_nZA4RKfP...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan.in/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan.in/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php on line 44
+[25-May-2015 10:32:29 Etc/GMT] PHP Fatal error:  Cannot redeclare Muser::test() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 268
+[25-May-2015 10:45:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/cgblo1iw/public_html/mplan.in/application/views/muser/matches.php on line 75
+[26-May-2015 11:49:54 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 29
+[26-May-2015 11:50:30 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 29
+[26-May-2015 11:51:59 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 29
+[26-May-2015 11:53:52 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 29
+[26-May-2015 11:57:54 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/libraries/muse.php on line 162
+[26-May-2015 12:07:14 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 31
+[26-May-2015 12:09:03 Etc/GMT] PHP Fatal error:  Call to a member function index() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 31
+[26-May-2015 15:06:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/cgblo1iw/public_html/mplan.in/application/controllers/auth.php on line 616
+[27-May-2015 05:41:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/cgblo1iw/public_html/mplan.in/application/controllers/partner_profile.php on line 186
+[27-May-2015 06:11:34 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 152
+[27-May-2015 06:11:56 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 152
+[27-May-2015 09:39:22 Etc/GMT] PHP Fatal error:  Class 'Matri' not found in /home/cgblo1iw/public_html/mplan.in/system/core/Loader.php on line 303
+[27-May-2015 13:31:02 Etc/GMT] PHP Fatal error:  Cannot access empty property in /home/cgblo1iw/public_html/mplan.in/application/libraries/muse.php on line 309
+[27-May-2015 20:39:01 Etc/GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 318
+[28-May-2015 03:28:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'user_info' (T_STRING) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 40
+[28-May-2015 03:33:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'user_info' (T_STRING) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 40
+[28-May-2015 03:34:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 72
+[28-May-2015 03:34:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'hobbies' (T_STRING) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 342
+[28-May-2015 17:25:15 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 501
+[28-May-2015 17:27:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 503
+[28-May-2015 17:28:32 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 503
+[28-May-2015 18:01:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '?' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 343
+[29-May-2015 10:40:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 446
+[29-May-2015 10:47:31 Etc/GMT] PHP Parse error:  syntax error, unexpected 'test' (T_STRING), expecting '(' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 529
+[29-May-2015 14:11:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 394
+[30-May-2015 13:06:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'by' (T_STRING) in /home/cgblo1iw/public_html/mplan.in/application/controllers/auth.php on line 84
+[30-May-2015 13:33:02 Etc/GMT] PHP Fatal error:  Call to a member function set_userdata() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/auth.php on line 187
+[30-May-2015 14:02:47 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message 'Required option not passed: access_token
+' in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php:44
+Stack trace:
+#0 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token.php(30): OAuth2_Token_Access->__construct(NULL)
+#1 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider.php(223): OAuth2_Token::factory('access', NULL)
+#2 /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php(61): OAuth2_Provider->access('4/Q1JgfRTNnZkS5...', Array)
+#3 /home/cgblo1iw/public_html/mplan.in/application/controllers/auth_oa2.php(32): OAuth2_Provider_Google->access('4/Q1JgfRTNnZkS5...')
+#4 [internal function]: Auth_oa2->session('google')
+#5 /home/cgblo1iw/public_html/mplan.in/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#6 /home/cgblo1iw/public_html/mplan.in/index.php(202): require_once('/home/cgblo1iw/...')
+#7 {main}
+  thrown in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Token/Access.php on line 44
+[30-May-2015 14:08:35 Etc/GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/cgblo1iw/public_html/mplan.in/application/libraries/oauth2/Provider/Google.php on line 73
+[31-May-2015 02:43:06 Etc/GMT] PHP Parse error:  syntax error, unexpected 'container' (T_STRING), expecting ',' or ';' in /home/cgblo1iw/public_html/mplan.in/application/views/muser/photo.php on line 28
+[31-May-2015 04:27:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '(' in /home/cgblo1iw/public_html/mplan.in/application/views/muser/photo.php on line 12
+[31-May-2015 16:25:44 Etc/GMT] PHP Fatal error:  Call to undefined function delete() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 254
+[31-May-2015 16:41:08 Etc/GMT] PHP Fatal error:  Call to undefined function delete() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 254
+[31-May-2015 17:21:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 540
+[31-May-2015 17:32:30 Etc/GMT] PHP Fatal error:  Call to undefined function delete() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 537
+[31-May-2015 18:06:09 Etc/GMT] PHP Fatal error:  Call to undefined function delete() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 540
+[31-May-2015 19:21:26 Etc/GMT] PHP Fatal error:  Cannot redeclare Matri::global_upldate() in /home/cgblo1iw/public_html/mplan.in/application/models/matri.php on line 93
+[31-May-2015 20:20:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 258
+[04-Jun-2015 10:18:20 Etc/GMT] PHP Fatal error:  Call to undefined function error_404() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 590
+[04-Jun-2015 10:27:56 Etc/GMT] PHP Fatal error:  Call to a member function view() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 2
+[04-Jun-2015 10:31:59 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[04-Jun-2015 10:32:03 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[04-Jun-2015 10:33:35 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[04-Jun-2015 10:33:37 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[04-Jun-2015 10:40:11 Etc/GMT] PHP Fatal error:  Call to a member function get_user_id() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 96
+[04-Jun-2015 10:42:16 Etc/GMT] PHP Fatal error:  Call to a member function get_user_id() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 101
+[06-Jun-2015 10:43:07 Etc/GMT] PHP Fatal error:  Cannot redeclare class Users in /home/cgblo1iw/public_html/mplan.in/application/models/tank_auth/users.php on line 395
+[06-Jun-2015 14:39:24 Etc/GMT] PHP Fatal error:  Cannot redeclare base_url() (previously declared in /home/cgblo1iw/public_html/mplan.in/system/helpers/url_helper.php:64) in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[07-Jun-2015 03:46:49 Etc/GMT] PHP Fatal error:  Cannot redeclare base_url() (previously declared in /home/cgblo1iw/public_html/mplan.in/system/helpers/url_helper.php:64) in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[07-Jun-2015 13:24:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/cgblo1iw/public_html/mplan.in/application/views/site_theme/profile_menu.php on line 55
+[07-Jun-2015 13:36:50 Etc/GMT] PHP Fatal error:  Call to undefined method Update_Profile::background() in /home/cgblo1iw/public_html/mplan.in/application/controllers/update_profile.php on line 115
+[07-Jun-2015 14:34:11 Etc/GMT] PHP Fatal error:  Cannot redeclare base_url() (previously declared in /home/cgblo1iw/public_html/mplan.in/system/helpers/url_helper.php:64) in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[07-Jun-2015 14:34:21 Etc/GMT] PHP Fatal error:  Cannot redeclare base_url() (previously declared in /home/cgblo1iw/public_html/mplan.in/system/helpers/url_helper.php:64) in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[07-Jun-2015 14:34:37 Etc/GMT] PHP Fatal error:  Cannot redeclare base_url() (previously declared in /home/cgblo1iw/public_html/mplan.in/system/helpers/url_helper.php:64) in /home/cgblo1iw/public_html/mplan.in/application/errors/error_404.php on line 6
+[07-Jun-2015 18:20:59 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:21:13 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:21:18 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:21:21 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:22:08 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:22:15 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 69
+[07-Jun-2015 18:45:12 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:05:32 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:05:40 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:09:06 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:09:24 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:10:01 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:10:08 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 19:13:59 Etc/GMT] PHP Fatal error:  Call to a member function result() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 87
+[07-Jun-2015 20:42:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/cgblo1iw/public_html/mplan.in/application/views/site_theme/profile_menu.php on line 111
+[07-Jun-2015 22:22:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/cgblo1iw/public_html/mplan.in/application/views/profile_page/cbasic_info.php on line 113
+[08-Jun-2015 07:19:28 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cgblo1iw/public_html/mplan.in/application/controllers/update_profile.php on line 396
+[08-Jun-2015 07:20:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cgblo1iw/public_html/mplan.in/application/controllers/update_profile.php on line 395
+[08-Jun-2015 07:21:05 Etc/GMT] PHP Fatal error:  Call to undefined method Matri::global_update() in /home/cgblo1iw/public_html/mplan.in/application/controllers/update_profile.php on line 393
+[08-Jun-2015 07:56:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/libraries/muse.php on line 357
+[08-Jun-2015 09:29:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 32
+[08-Jun-2015 09:55:53 Etc/GMT] PHP Fatal error:  Call to a member function community() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/profile_page/cbackground.php on line 108
+[08-Jun-2015 11:12:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/views/profile_page/cfamily.php on line 105
+[09-Jun-2015 04:04:12 Etc/GMT] PHP Fatal error:  Call to undefined method Muse::get_partner_background() in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 64
+[09-Jun-2015 04:04:18 Etc/GMT] PHP Fatal error:  Call to undefined method Muse::get_partner_background() in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 64
+[09-Jun-2015 04:04:43 Etc/GMT] PHP Fatal error:  Call to undefined method Muse::get_partner_background() in /home/cgblo1iw/public_html/mplan.in/application/views/partner_profile/complete_partner_background.php on line 64
+[09-Jun-2015 15:20:19 Etc/GMT] PHP Fatal error:  Call to a member function create_album() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 343
+[09-Jun-2015 18:29:41 Etc/GMT] PHP Fatal error:  Cannot redeclare Muser::account_upgrade() in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 574
+[09-Jun-2015 19:05:25 Etc/GMT] PHP Fatal error:  Cannot redeclare class Users in /home/cgblo1iw/public_html/mplan.in/application/models/tank_auth/users.php on line 395
+[09-Jun-2015 19:22:23 Etc/GMT] PHP Fatal error:  Call to a member function offer() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/views/muser/matches.php on line 79
+[10-Jun-2015 06:59:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/cgblo1iw/public_html/mplan.in/application/libraries/muse.php on line 31
+[14-Jun-2015 09:54:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 567
+[14-Jun-2015 13:39:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/cgblo1iw/public_html/mplan.in/application/models/matri.php on line 270
+[19-Sep-2015 05:55:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/views/auth/login_form.php on line 166
+[19-Sep-2015 05:55:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/cgblo1iw/public_html/mplan.in/application/views/auth/login_form.php on line 166
+[24-Sep-2015 07:04:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 07:10:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 07:15:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 07:16:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 07:20:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 08:28:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 08:48:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE) in /home/cgblo1iw/public_html/mplan.in/application/config/email.php on line 20
+[24-Sep-2015 11:57:31 Etc/GMT] PHP Fatal error:  Call to a member function create_album() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/muser.php on line 336
+[04-Oct-2015 08:43:40 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:47:06 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:47:08 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:47:35 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:47:39 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:48:15 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:48:17 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:48:23 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:48:35 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:49:10 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 08:49:20 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 100
+[04-Oct-2015 11:21:14 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::education() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 60
+[04-Oct-2015 11:35:01 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 273
+[04-Oct-2015 11:48:19 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 271
+[05-Oct-2015 10:17:07 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 109
+[05-Oct-2015 10:17:49 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 109
+[05-Oct-2015 10:17:56 Etc/GMT] PHP Fatal error:  Call to undefined method User_profile::lifestyle() in /home/cgblo1iw/public_html/mplan.in/application/controllers/user_profile.php on line 109
+[07-Jan-2016 12:17:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/cgblo1iw/public_html/mplan.in/application/controllers/welcome.php on line 72
+[07-Jan-2016 12:17:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/cgblo1iw/public_html/mplan.in/application/controllers/welcome.php on line 72
+[07-Jan-2016 12:19:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/cgblo1iw/public_html/mplan.in/application/controllers/welcome.php on line 72
+[07-Jan-2016 13:28:44 Etc/GMT] PHP Fatal error:  Call to a member function load() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/auth.php on line 257
+[07-Jan-2016 13:34:17 Etc/GMT] PHP Fatal error:  Call to a member function load() on a non-object in /home/cgblo1iw/public_html/mplan.in/application/controllers/auth.php on line 257
+[29-Sep-2016 05:12:54 Etc/GMT] PHP Notice:  Undefined index: d in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 7
+[29-Sep-2016 05:12:54 Etc/GMT] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 10
+[29-Sep-2016 05:12:54 Etc/GMT] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 11
+[29-Sep-2016 09:32:15 Etc/GMT] PHP Warning:  file_get_contents(http://braika.fr/vitkro.zip): failed to open stream: Connection timed out in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 10
+[29-Sep-2016 09:32:15 Etc/GMT] PHP Notice:  Undefined variable: v_maximum_size in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 3087
+[29-Sep-2016 09:32:15 Etc/GMT] PHP Notice:  Undefined variable: v_maximum_size in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 3090
+[29-Sep-2016 09:32:18 Etc/GMT] PHP Warning:  file_get_contents(http://braika.fr/vitkro.zip): failed to open stream: Connection timed out in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 10
+[29-Sep-2016 09:32:18 Etc/GMT] PHP Notice:  Undefined variable: v_maximum_size in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 3087
+[29-Sep-2016 09:32:18 Etc/GMT] PHP Notice:  Undefined variable: v_maximum_size in /home/cgblo1iw/public_html/mplan.in/c62453b272.php on line 3090
