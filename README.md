@@ -6,13 +6,8 @@ Project Name: School Result / Board Result
 Mplan is Open source matrimoanil website.
 Create profile and start searching for prospective brides and grooms.
 
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/ScreenShotonSep23rdat02-13PM.png" >
-             <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot1.png" >
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot2.png" >
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot3.png" >
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot4.png" >
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot5.png" >
-        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/screen_shot6.png" >
+        <img src="https://github.com/shivamanhar/mplan/blob/master/screen_shot/ScreenShotonSep23rdat02-13PM.png">
+     
             
        
 <h2> Installation </h2>
